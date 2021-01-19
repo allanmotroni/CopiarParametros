@@ -416,5 +416,6 @@ namespace CopiarParametros
         {
             txtValor.Visible = !txtValor.Visible;
         }
+        
     }
 }
